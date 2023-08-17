@@ -4,7 +4,7 @@
 **Gabr1el20/Gabr1el20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 <h1 align="center">Hi 👋, I'm Gabriel Delgado</h1>
-<h3 align="center">A sotware-developing student at Holberton Uruguay</h3>
+<h3 align="center">A software-developing student at Holberton Uruguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabr1el20&label=Profile%20views&color=0e75b6&style=flat" alt="gabr1el20" /> </p>
 
