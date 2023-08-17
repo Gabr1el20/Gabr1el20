@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Delgado</h1>
 <h3 align="center">A sotware-developing student at Holberton Uruguay</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning  </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
