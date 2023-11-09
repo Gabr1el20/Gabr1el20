@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Gabr1el20/Gabr1el20/blob/main/sukugod.gif"  />
+  <img height="400" width="800" src="https://github.com/Gabr1el20/Gabr1el20/blob/main/sukugod.gif"  />
 </div>
 
 ###
