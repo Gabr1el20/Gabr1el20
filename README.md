@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/Sou-miyazaki_jjk?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL1NvdS1taXlhemFraV9qamsiLCJpYXQiOjE3MDI5MDgxNDAsImV4cCI6MTcwNTUwMDE0MH0.nGLZJ_rZsRvZsqNRgys8iDi1EDwIj2cZYnB6E9MHZyY&t=2023-12-18T14%3A00%3A31.581Z"  />
+  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/jjk-pen?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL2pqay1wZW4iLCJpYXQiOjE3MDI2NzA2MDksImV4cCI6MTcwMzI3NTQwOX0.5VuHwXVcswBQY2MXUDn8tQGbv71gTuHAhUKPoNhpCDc&t=2023-12-15T20%3A01%3A42.396Z"  />
 </div>
 
 ###
