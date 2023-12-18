@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/vincent-chansard_jjk?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL3ZpbmNlbnQtY2hhbnNhcmRfamprIiwiaWF0IjoxNzAyOTA4NTY5LCJleHAiOjE3MDU1MDA1Njl9.b0s_-6THln7iVvqAhhDv1q2GNX-wnPYdIjQt4nqPEJE&t=2023-12-18T14%3A07%3A40.348Z"  />
+  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/one-piece-g5?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL29uZS1waWVjZS1nNSIsImlhdCI6MTcwMjY3MDM2MSwiZXhwIjoxNzAzMjc1MTYxfQ.HO51R29_xhu_ZBKsG-Stj00BxEZhEtFLq2CyPLL8EPA&t=2023-12-15T19%3A57%3A33.907Z"  />
 </div>
 
 ###
