@@ -1,0 +1,33 @@
+name: Fetch API and Save as JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/3 * * * *'
+
+jobs:
+  update-test-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run script
+      run: node updating.js 
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "6327@holbertonstudents.com"
+        git config --local user.name "${GITHUB_ACTOR}"
+        git add .
+        git commit -m "Update API response"
+        git push
