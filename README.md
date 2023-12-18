@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/sou_miyazaki_jjks2ep1.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL3NvdV9taXlhemFraV9qamtzMmVwMS5naWYiLCJpYXQiOjE3MDI5Mjk1MDgsImV4cCI6MTcwNTUyMTUwOH0.NKmbbw8XZn6k48J22ue7ROp1X0B3jbHYikhn7h3gBvs&t=2023-12-18T19%3A56%3A45.641Z"  />
+  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/one-piece-law?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL29uZS1waWVjZS1sYXciLCJpYXQiOjE3MDI5MDYyOTgsImV4cCI6MTcwNTQ5ODI5OH0.eoX2C-WeRUO_oWgl71ZK04ez3tdYnKHWRAqJ7PY7-9E&t=2023-12-18T13%3A29%3A50.179Z"  />
 </div>
 
 ###
