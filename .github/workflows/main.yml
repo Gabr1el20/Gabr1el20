@@ -22,7 +22,7 @@ jobs:
       run: npm install
 
     - name: Run script
-      run: node updating.js 
+      run: node updating_gif.js 
 
     - name: Commit and Push Changes
       run: |
