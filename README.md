@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/bahijd_onepiece1015.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL2JhaGlqZF9vbmVwaWVjZTEwMTUuZ2lmIiwiaWF0IjoxNzAyOTI5NjY3LCJleHAiOjE3MDU1MjE2Njd9.pqfxXwxhBrc5TVGf-s1Ig6F3NJfpT5tonGBnQAJgYPk&t=2023-12-18T19%3A59%3A17.973Z"  />
+  <img height="300" width="600" src="https://ireumvmoybitxftsqlgh.supabase.co/storage/v1/object/sign/Cuts/masami_mori_weareone.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJDdXRzL21hc2FtaV9tb3JpX3dlYXJlb25lLmdpZiIsImlhdCI6MTcwMjkyOTY0NSwiZXhwIjoxNzA1NTIxNjQ1fQ.LD0iPGA2uJQ0MmNpaYqnZFRMGco7MpGhUPYSt9aJgk8&t=2023-12-18T19%3A58%3A56.623Z"  />
 </div>
 
 ###
