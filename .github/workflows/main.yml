@@ -3,7 +3,7 @@ name: Fetch API and Save as JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   update-test-file:
