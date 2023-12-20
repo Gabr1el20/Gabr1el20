@@ -47,7 +47,7 @@ async function updateTestFile (imageSrc) {
 async function main () {
   try {
     const apiData = await fetchDataFromAPI()
-    const imageSrc = apiData.data
+    const imageSrc = apiData.url
 
     // Actualizar el archivo TEST.md con el nuevo valor de src
     await updateTestFile(imageSrc)
