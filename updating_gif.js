@@ -3,7 +3,7 @@ const fs = require('node:fs')
 // Función para realizar la solicitud a la API
 async function fetchDataFromAPI () {
   try {
-    const response = await fetch('https://random-ka-v2.onrender.com') // Reemplaza 'URL_DE_TU_API' con la URL real de tu API
+    const response = await fetch('https://oq5npnwovb.execute-api.us-east-1.amazonaws.com/default/randomSakuga') // Reemplaza 'URL_DE_TU_API' con la URL real de tu API
     const data = await response.json()
     return data
   } catch (error) {
