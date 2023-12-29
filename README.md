@@ -12,25 +12,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there!👋</h1>
 
 ###
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <a href="https://www.linkedin.com/in/gabr1el20/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="delgadogab2713@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+<h2 align="center">👩‍💻  About Me</h2>
 
 <h5 align="left">I'm Gabriel from Uruguay<br><br>- 📚 I'm currently learning about the Software developing Foundations<br>- ⚡ In my free time I like to investigate about the animation industry</h5>
 
