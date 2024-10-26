@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE3Nzdia3pjbTFmbmd5amV3azE4djM2MTRhcGE1ODJucjg4MWdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3lwqT6F0nnNCh2E9i/giphy.gif"  />
+  <img height="300" width="600" src="https://media1.giphy.com/media/Iep52aCAaUiSfOPu08/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Akiko Kudo-</p>
-<p align='center'>From -Vinland Saga: Episode 9-</p>
+<p align='center'>Key animation: -Sou Miyazaki-</p>
+<p align='center'>From -Jujutsu Kaisen: Season 2: Episode 1-</p>
 
 ###
 
