@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="undefined"  />
+  <img height="300" width="600" src="https://media4.giphy.com/media/PLw63A4gmIYkqLMjzl/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -undefined-</p>
-<p align='center'>From -undefined: undefined-</p>
+<p align='center'>Key animation: -Masami Mori-</p>
+<p align='center'>From -One Piece: WE ARE ONE (special)-</p>
 
 ###
 
