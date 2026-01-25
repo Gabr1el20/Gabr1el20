@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media1.giphy.com/media/EoaWadeGJnHvVjsYQk/giphy.gif"  />
+  <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYyZnducnB0Nzg1eXZoYW12ZWc1dHM3dWNqbmJ6MmtxMDlldWNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FGbz6F4BmNs01asZAc/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Bahi JD-</p>
-<p align='center'>From -One piece: Episode 1015-</p>
+<p align='center'>Key animation: -Mahiro Maeda-</p>
+<p align='center'>From -Evangelion: 3.0 + 1.01 :  Thrice Upon a Time-</p>
 
 ###
 
