@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhpdzJ3M2RrYzV6dmtxdmUxZXpkcHo1Nm1qbHdrZWE0Z2xsdjczbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tj32rLCwctq2YJYbln/giphy.gif"  />
+  <img height="300" width="600" src="https://media2.giphy.com/media/PPRsPKlT3wUpypOE6d/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Sou Miyazaki-</p>
-<p align='center'>From -Jujutsu Kaisen: Season 2: Episode 16-</p>
+<p align='center'>Key animation: -Vincent Chansard-</p>
+<p align='center'>From -Jujutsu Kaisen: Season 2: Episode 17-</p>
 
 ###
 
