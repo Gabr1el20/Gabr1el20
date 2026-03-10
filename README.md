@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media1.giphy.com/media/EoaWadeGJnHvVjsYQk/giphy.gif"  />
+  <img height="300" width="600" src="https://media2.giphy.com/media/PPRsPKlT3wUpypOE6d/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Bahi JD-</p>
-<p align='center'>From -One piece: Episode 1015-</p>
+<p align='center'>Key animation: -Vincent Chansard-</p>
+<p align='center'>From -Jujutsu Kaisen: Season 2: Episode 17-</p>
 
 ###
 
