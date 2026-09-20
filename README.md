@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjE3Nzdia3pjbTFmbmd5amV3azE4djM2MTRhcGE1ODJucjg4MWdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a3lwqT6F0nnNCh2E9i/giphy.gif"  />
+  <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYyZnducnB0Nzg1eXZoYW12ZWc1dHM3dWNqbmJ6MmtxMDlldWNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FGbz6F4BmNs01asZAc/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Akiko Kudo-</p>
-<p align='center'>From -Vinland Saga: Episode 9-</p>
+<p align='center'>Key animation: -Mahiro Maeda-</p>
+<p align='center'>From -Evangelion: 3.0 + 1.01 :  Thrice Upon a Time-</p>
 
 ###
 
