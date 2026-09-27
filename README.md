@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media1.giphy.com/media/Iep52aCAaUiSfOPu08/giphy.gif"  />
+  <img height="300" width="600" src="https://media1.giphy.com/media/EoaWadeGJnHvVjsYQk/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Sou Miyazaki-</p>
-<p align='center'>From -Jujutsu Kaisen: Season 2: Episode 1-</p>
+<p align='center'>Key animation: -Bahi JD-</p>
+<p align='center'>From -One piece: Episode 1015-</p>
 
 ###
 
