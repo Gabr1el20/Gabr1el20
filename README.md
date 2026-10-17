@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media1.giphy.com/media/Iep52aCAaUiSfOPu08/giphy.gif"  />
+  <img height="300" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYyZnducnB0Nzg1eXZoYW12ZWc1dHM3dWNqbmJ6MmtxMDlldWNueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FGbz6F4BmNs01asZAc/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Sou Miyazaki-</p>
-<p align='center'>From -Jujutsu Kaisen: Season 2: Episode 1-</p>
+<p align='center'>Key animation: -Mahiro Maeda-</p>
+<p align='center'>From -Evangelion: 3.0 + 1.01 :  Thrice Upon a Time-</p>
 
 ###
 
