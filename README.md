@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="300" width="600" src="https://media1.giphy.com/media/EoaWadeGJnHvVjsYQk/giphy.gif"  />
+  <img height="300" width="600" src="https://media4.giphy.com/media/PLw63A4gmIYkqLMjzl/giphy.gif"  />
 </div>
-<p align='center'>Key animation: -Bahi JD-</p>
-<p align='center'>From -One piece: Episode 1015-</p>
+<p align='center'>Key animation: -Masami Mori-</p>
+<p align='center'>From -One Piece: WE ARE ONE (special)-</p>
 
 ###
 
